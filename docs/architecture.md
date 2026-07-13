@@ -41,3 +41,13 @@ RabbitMQ --> NotificationService
 NotificationService --> Email
 NotificationService --> PushNotifications
 ```
+## React Native Mobile App
+
+Provides the user interface for teachers, parents, and administrators.
+
+Responsibilities:
+
+- Authentication
+- Classroom management
+- Recording childcare events
+- Viewing child timelines
