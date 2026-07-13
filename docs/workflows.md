@@ -1,5 +1,7 @@
 # Application Workflows
 
+This document describes the primary user workflows supported by the application. Each workflow represents a business process from start to finish and does not document every possible user interface option or field.
+
 ## Record a Diaper Change
 
 1. Teacher logs in.
