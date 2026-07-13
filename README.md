@@ -1,4 +1,4 @@
-# childcare_management_platform
+# Childcare Management Platform
 Full-stack childcare management platform built with Spring Boot, React Native, RabbitMQ, and Docker.
 
 This mobile application is designed to improve communication between teachers, parents, and childcare administrators while reducing paperwork and streamlining daily childcare operations.
