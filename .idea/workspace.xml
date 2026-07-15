@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41c31969-a155-46f3-b163-780810afd671" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/.idea/GitHub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/docs/architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/docs/database-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/docs/workflows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/src/main/java/io/github/kenmilota/childcare/ChildcareServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daycare-management-system/services/childcare-service/src/test/java/io/github/kenmilota/childcare_service/ChildcareServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/architecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database-design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/childcare-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/identity-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/notification-service" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KenM66&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KenM66/childcare_management_platform.git&quot;,
+    &quot;accountId&quot;: &quot;a539faa8-ca3c-432e-9816-e280777cb598&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3GTtht8u27jP7tY3YeeVyeCfflb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GitHub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GitHub" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c31969-a155-46f3-b163-780810afd671" name="Changes" comment="" />
+      <created>1784007508652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784007508652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
